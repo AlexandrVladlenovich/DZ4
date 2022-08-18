@@ -1,0 +1,15 @@
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\bin\Debug\net6.0\Zadacha025_A^B.exe
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\bin\Debug\net6.0\Zadacha025_A^B.deps.json
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\bin\Debug\net6.0\Zadacha025_A^B.runtimeconfig.json
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\bin\Debug\net6.0\Zadacha025_A^B.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\bin\Debug\net6.0\Zadacha025_A^B.pdb
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\obj\Debug\net6.0\Zadacha025_A^B.csproj.AssemblyReference.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\obj\Debug\net6.0\Zadacha025_A^B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\obj\Debug\net6.0\Zadacha025_A^B.AssemblyInfoInputs.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\obj\Debug\net6.0\Zadacha025_A^B.AssemblyInfo.cs
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\obj\Debug\net6.0\Zadacha025_A^B.csproj.CoreCompileInputs.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\obj\Debug\net6.0\Zadacha025_A^B.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\obj\Debug\net6.0\refint\Zadacha025_A^B.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\obj\Debug\net6.0\Zadacha025_A^B.pdb
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\obj\Debug\net6.0\Zadacha025_A^B.genruntimeconfig.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ4\Zadacha025_A^B\obj\Debug\net6.0\ref\Zadacha025_A^B.dll
